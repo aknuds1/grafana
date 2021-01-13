@@ -3221,4 +3221,8 @@ depends_on:
 - enterprise-build-release-branch
 - enterprise-windows-release-branch
 
+---
+kind: signature
+hmac: 7707142a24b358091b4f15c9a3ff8260452cb01f5478096eda53ca409642f732
+
 ...
